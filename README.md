@@ -1,0 +1,2 @@
+# lxpanelconfig
+My LXPanel config
